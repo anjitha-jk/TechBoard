@@ -1,37 +1,24 @@
-1. Enterprise Resource Planning Tool (Web) - React, Python FastAPI, Cursor(licensed)
-Led the full-stack interface strategy for an enterprise ERP platform, pairing a robust React frontend with an intelligent Python FastAPI backend. Managed task allocation and code quality across the team while establishing standardized UI patterns, drastically reducing latency and development overhead for AI-powered resource management tools.
-
-2. ​Behavioural Health Care Application (Web & Mobile) - React, React Native, Redux Toolkit
-Led the front-end development of a US based behavioral health application serving over 2,500 active users and their broader caregiver networks (~7,500 total). Built reusable React components, implemented Redux-based state management, and optimized core user flows, contributing to a ~30% increase in user engagement.
-							
-									
-							
-							
-							SENIOR SOFTWARE ENGINEER - REACT and PYTHON
+SENIOR SOFTWARE ENGINEER - REACT + PYTHON
 Phone													LinkedIn: 
 Email													Portfolio Project: Github 
 
 PROFESSIONAL SUMMARY
 
-Senior Software Engineer with over 4 years of expertise in developing high-performance cross-platform applications using React (with TypeScript). Led the software development for AI-enabled products, driving the frontend architecture, state management, API integration, using scalable Python (FastAPI/Django) backends. 
+Senior Software Engineer with over 4 years of expertise in developing high-performance cross-platform applications using React (with TypeScript). Led the software development for AI-enabled products, driving the frontend architecture, state management, API integration, using scalable Python FastAPI backends. 
 
-SKILLS
-Frontend: React, Next.js, TypeScript, React Native, Angular
-State Management & Data Fetching: Redux Toolkit, Zustand, Tanstack Query
+PRIMARY SKILLS
+Frontend: React, TypeScript
+State Management & Data Fetching: Redux Toolkit, Tanstack Query
+Backend and Databases: Python Fast API, PostgreSQL, Microsoft SQL Server
 Debugging: React Testing Library
-Tooling and Devops: GitHub (Silver Pull Shark), Jira, Confluence, Swagger
-Backend and Databases: Python Fast API, Django, MySQL, Microsoft SQL Server
+Tooling and Devops: GitHub (Silver Pull Shark recognition), VSCode, Jira, Swagger
+
+
+Secondary Skills - React Native, Electron, Angular, Django, Zustand, Asana, Confluence
 
 EXPERIENCE
 Acsia Technologies – Technology Specialist
 
-Enterprise Resource Planning Tool
-
-• Led full-stack engineering for a high-impact ERP platform, pairing a responsive React frontend with an intelligent Python FastAPI backend architecture.
-• Designed and integrated RESTful endpoints and middleware services in FastAPI to streamline backend resource management workflows and data delivery.
-• Managed data persistence and optimization by structuring relational schemas and queries using Microsoft SQL Server (MS SQL) to handle enterprise-level data.
-• Boosted development velocity by utilizing advanced AI-assisted coding frameworks (Cursor IDE), setting standardized UI-to-backend data patterns across the team.
-• Overseat task allocation and code quality for a team of 5 junior developers, conducting code reviews (PRs) and technical training sessions to align frontend-backend integration.
 
 AI-Driven Automotive Analytics Portfolio
 
@@ -41,19 +28,22 @@ AI-Driven Automotive Analytics Portfolio
 • Acted as a core technical contributor for an AI-powered tool for Automotive Test Case Generation, managing UI feature breakdowns and frontend planning for its showcase at CES 2026, Las Vegas.
 Worked extensively on AI-enabled products, including an Automotive big-data analytics dashboard, automated test case generation, and real-time chatbot interfaces using Web Sockets.
 Designed and optimized REST APIs and WebSocket connections to stream real-time data payloads from AI-enabled backend workflows to dynamic frontend systems.
+Mentored a team of 5 junior developers; reviewed PRs and conducted React Training Sessions as part of Acsia Academy; an organization-wide upskilling initiative.
 
-Translated complex backend and machine learning workflows into intuitive user experiences through dynamic dashboards, data visualization systems, and responsive UI architectures. Streamline data fetching and caching flows to handle high-volume datasets efficiently.
-Acted as a key technical contributor in planning, estimation, and feature breakdown for AI-driven automotive analytics
-products. Eg: AI powered tool for Automotive Test Case Generation (Showcased at CES 2026, Las Vegas)
-Contributed to frontend development activities in Next.js, supporting component development and UI enhancements.
-Mentored a team of 5 junior developers; reviewed PRs and conducted React Training Sessions as part of Acsia Academy; an
-organization-wide upskilling initiative.
-Led the full-stack development with hands-on expertise in Python FAST API, REST API development, middleware API integration, Microsoft SQL Server (MS SQL), and SQL Server databases.
+Enterprise Resource Planning Tool
+
+• Led the full-stack engineering for a high-impact ERP platform, pairing a responsive React frontend with an intelligent Python FastAPI backend architecture.
+• Designed and integrated RESTful endpoints and middleware services in FastAPI to streamline backend resource management workflows and data delivery.
+• Managed data persistence and optimization by structuring relational schemas and queries using Microsoft SQL Server (MS SQL) to handle enterprise-level data.
+• Boosted development velocity by utilizing advanced AI-assisted coding frameworks (Cursor IDE), setting standardized UI-to-backend data patterns across the team.
+• Overseat task allocation and code quality for a team of 5 junior developers, conducting code reviews (PRs) and technical training sessions to align frontend-backend integration.
+
 
 Experion Technologies - Senior Software Engineer
 
 Behavioural Health Care Application (Web & Mobile) - React, React Native, Redux Toolkit
 Led the front-end development of a US based behavioral health application serving over 2,500 active users and their broader caregiver networks (~7,500 total). Built reusable React components, implemented Redux-based state management, and optimized core user flows, contributing to a ~30% increase in user engagement.
+
 
 
 Built and shipped production-grade, responsive ReactJS features using Redux Toolkit and Zustand to manage complex global &
@@ -73,9 +63,11 @@ data-fetching patterns, resulting in ~25% improvement in interaction responsiven
 Applied TypeScript extensively in production-grade software projects to ensure type safety and maintainability.
 Actively contributed to code review, technical estimation, and release planning for multiple production cycles.
 Achieved GitHub “Silver Pull Shark” badge for active contribution and code quality.
+
+
 Note:- Pursued the Civil Services Exam (May 2023 to May 2025) while continuing software development through freelance projects.
 
-TECHNICAL PROJECTS
+PERSONAL PROJECT
 
 Full-Stack Social Feed & Analytics Platform | React, FastAPI, Python, PostgreSQL
 • Engineered an asynchronous full-stack application leveraging FastAPI and React to ingest and process real-time data from third-party social APIs.
@@ -84,9 +76,8 @@ Full-Stack Social Feed & Analytics Platform | React, FastAPI, Python, PostgreSQL
 
 EDUCATION
 
-B.Tech with Honors Distinction from KTU (State Technological University of Kerala)    [2015-2019]
-CGPA: 8.44 / 10 - Top 5% of Batch (Department of EEE, Mar Baselios College, Thiruvananthapuram)
-
+B.Tech with Honors Distinction: CGPA: 8.44 / 10 (Awarded by KTU, State Technological University of Kerala)     [2015-2019]
+Top 5% of Batch - Department of EEE, Mar Baselios College of Engineering and Technology, Thiruvananthapuram 
 ●​Awards: All Round Performance Award (1 of 120) for outstanding achievement in academic and
 extracurricular activities
 ●​Positions of Responsibility: Joint Secretary, College Senate (2018); Sub-Editor, College Magazine (2017),
